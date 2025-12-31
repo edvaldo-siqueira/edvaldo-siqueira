@@ -38,12 +38,3 @@
 
 ###
 
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/edvaldo-siqueira/count.svg?"  />
-</div>
-
-###
